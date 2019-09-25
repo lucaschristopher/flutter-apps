@@ -1,0 +1,4 @@
+### App 1: Contador de pessoas: Noções básicas de templates.
+### App 2: Calculadora de IMC: Trabalhando com formulário, validações e um pouco de scroll.
+### App 3: Conversor de modeas: Utilização de recuperação de valores em uma API (ponte que 
+podemos utilizar para obter os dados de um serviço) e, consequentemente, de async/await.
